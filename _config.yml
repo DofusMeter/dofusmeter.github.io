@@ -7,7 +7,7 @@ github:
 
 defaults:
   - scope:
-      path: ""
+      path: "fr"
     values:
       lang: "fr"
   - scope:
