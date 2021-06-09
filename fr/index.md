@@ -9,6 +9,7 @@ Divers réglages sont disponibles afin de personnaliser l'affichage et le calcul
 ### Installation
 
 Vous pouvez télécharger le .zip contenant l’application en suivant [ce lien](https://github.com/DofusMeter/archive/raw/master/DofusMeter.zip).
+
 Extraire le contenu du .zip dans un dossier dédié à Dofus Meter (où vous voulez tant que le dossier est vide).
 
 ### Lancement
@@ -16,6 +17,7 @@ Extraire le contenu du .zip dans un dossier dédié à Dofus Meter (où vous vou
 S'assurer que votre client Dofus est bien parametré pour utiliser le port `5555` (c'est le port par défaut, si vous n'avez rien changer ça devrait déjà être le cas).
 
 Lancer directement `DofusMeter.exe`.
+
 La fenêtre principale apparaîtra, ainsi qu'une icone dans la zone de notification.
 
 NB : Vous pouvez créer un raccourci depuis `DofusMeter.exe` en cliquant droit dessus, puis `Envoyer vers > Bureau (Créer un raccourci)`.
