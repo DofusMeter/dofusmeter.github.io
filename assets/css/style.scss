@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+nav li {
+  display: inline;
+}
+
+nav li a {
+  padding: 8px;
+}
+
+nav {
+  text-align: center;
+}
