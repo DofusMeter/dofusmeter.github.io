@@ -23,11 +23,13 @@
   </head>
   <body>
     <script>
-        var lang = navigator.language || navigator.userLanguage;
-        if (lang.indexOf('fr') < 0 && "{{ page.lang }}" != "en")
+        if("{{ page.lang }}" == "") {
+          var lang = navigator.language || navigator.userLanguage;
+          if (lang.indexOf('fr') < 0)
             window.location = '/en/';
-        else if("{{ page.lang }}" != "fr")
+          else
             window.location = '/fr/';
+        }
     </script>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
