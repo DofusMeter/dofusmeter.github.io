@@ -10,7 +10,7 @@ Various settings are available to customize the display and calculation of graph
 
 You can download .zip file containing the application by following [this link](https://github.com/DofusMeter/archive/raw/master/DofusMeter.zip).
 
-Extract this .zip file in a folder dedicated to Dofus Meter (where ever you want as long as the folder is empty).
+Extract this .zip file's content in a folder dedicated to Dofus Meter (where ever you want as long as the folder is empty).
 
 ### Launch
 
@@ -37,4 +37,4 @@ Delete the folder in which you extracted the .zip archive, then delete folder `%
 
 ## Warning
 
-Please note, Dofus Meter has not been authorized by ANKAMA company. The Terms and Conditions of Use (TCU) of the game state that it is forbidden to use third party tools or to advertise them on the official game / forum. Dofus Meter therefore does not respect the TCU and a risk of ban is always present. The Dofus Meter team cannot be held responsible for any ban. However, Dofus Meter does not modify the game or its files, it only observes and displays information. It is by no means a bot and no action is automated. Therefore, the use of Dofus Meter is no more detectable by the game than that of Paint or Discord, and we would be very surprised to see a ban happen.
+Please note, Dofus Meter has not been authorized by ANKAMA company. The Terms and Conditions of Use (TCU) of the game state that it is forbidden to use third party tools or to advertise them on the official game / forum. Dofus Meter therefore does not respect the TCU and a risk of ban is always present. The Dofus Meter team cannot be held responsible for any ban. However, Dofus Meter does not modify the game or its files, it only observes and displays information. It is by no means a bot and no action is automated. Therefore, the use of Dofus Meter is no more detectable by the game than running Paint or Discord, and we would be very surprised to see a ban happen.
