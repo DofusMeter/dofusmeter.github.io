@@ -3,7 +3,7 @@ Dofus Meter is an unofficial application for the MMORPG Dofus. It is free and de
 
 Its goal is to provide a simple tool for measuring damage and in-game heal using graphs. It is the lighter and simpler successor of [Dofixed](https://dofixed.github.io/).
 
-Various settings are available to customize the display and calculate graphs.
+Various settings are available to customize the display and calculation of graphs.
 
 ## Usage
 ### Install
@@ -24,7 +24,7 @@ The main window will appear, as well as an icon in the notification area.
 
 ### Update
 
-Dofus Meter will update itself on each launch.
+Dofus Meter will update itself on launch.
 
 ### Uninstall
 
