@@ -1,3 +1,7 @@
+<img src="../assets/capture-qutan-1.png">
+
+<img src="../assets/capture-settings-en.png">
+
 ## Dofus Meter
 Dofus Meter is an unofficial application for the MMORPG Dofus. It is free and developped on free time.
 
