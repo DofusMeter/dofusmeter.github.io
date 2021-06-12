@@ -1,5 +1,7 @@
 <img src="../assets/capture-qutan-1.png">
 
+<img src="../assets/capture-settings-fr.png">
+
 ## Dofus Meter
 Dofus Meter est une application non officiel pour le jeu Dofus. Cette dernière est gratuite et réalisé sur le temps libre.
 
