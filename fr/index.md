@@ -3,9 +3,9 @@
 <img src="../assets/capture-settings-fr.png">
 
 ## Dofus Meter
-Dofus Meter est une application non officiel pour le jeu Dofus. Cette dernière est gratuite et réalisé sur le temps libre.
+Dofus Meter est une application non officielle pour le jeu Dofus. Cette dernière est gratuite et réalisée sur le temps libre.
 
-Son but est de donner un outil simple de mesure des dégats et soin en jeu grâce à des graphiques. Il est le successeur plus léger et simplifié de [Dofixed](https://dofixed.github.io/).
+Son but est de donner un outil simple de mesure des dégâts et soins en jeu grâce à des graphiques. Il est le successeur plus léger et simplifié de [Dofixed](https://dofixed.github.io/).
 
 Divers réglages sont disponibles afin de personnaliser l'affichage et le calcule des graphiques.
 
@@ -18,7 +18,7 @@ Extraire le contenu du .zip dans un dossier dédié à Dofus Meter (où vous vou
 
 ### Lancement
 
-S'assurer que votre client Dofus est bien parametré pour utiliser le port `5555` (c'est le port par défaut, si vous n'avez rien changer ça devrait déjà être le cas).
+S'assurer que votre client Dofus est bien parametré pour utiliser le port `5555` (c'est le port par défaut, si vous n'avez rien changé ça devrait déjà être le cas).
 
 Lancer directement `DofusMeter.exe`.
 
@@ -32,7 +32,7 @@ Dofus Meter se mettra à jour tout seul à chaque lancement.
 
 ### Désinstallation
 
-Supprimez le dossier dans le quel vous avez extrait l'archive, puis supprimer le dossier `%AppData%\Dofixed\DofusMeter`.
+Supprimer le dossier dans le quel vous avez extrait l'archive, puis supprimer le dossier `%AppData%\Dofixed\DofusMeter`.
 
 ## Limitations
 
