@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.0.4
+
+* Filtre sur dégat allié (plus de triche à base de pugilat sur ses amis)
+* Compatibilité avec la dernière version de Dofus
+
+
+## 0.0.4
+
+* Compatibilité avec la dernière version de Dofus
+
+
 ## 0.0.2
 
 * Sauvegarde de la taille de la fenêtre
