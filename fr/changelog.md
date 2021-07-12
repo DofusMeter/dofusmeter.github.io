@@ -6,7 +6,7 @@
 * Compatibilité avec la dernière version de Dofus
 
 
-## 0.0.4
+## 0.0.3
 
 * Compatibilité avec la dernière version de Dofus
 
