@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.0.6
+
+* Correction d'un crash lors de l'activation du filtre dégât sur allié dans certaines situations
+
+
+## 0.0.5
+
+* Correction des filtres affichant des lignes vides
+
+
 ## 0.0.4
 
 * Filtre sur dégat allié (plus de triche à base de pugilat sur ses amis)
