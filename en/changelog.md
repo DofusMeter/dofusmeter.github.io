@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.0.6
+
+* Fix a crash when ally damage filter enabled
+
+
+## 0.0.5
+
+* Fix filter generating empty lines
+
+
 ## 0.0.4
 
 * Filter on ally damage
