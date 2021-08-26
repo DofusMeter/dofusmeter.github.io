@@ -1,7 +1,7 @@
 # Changelog
 
 ## 0.0.7
-* Compatibility with las update 24/08/2021
+* Compatibility with last update 24/08/2021
 * Added a turn counter
 
 ## 0.0.6
