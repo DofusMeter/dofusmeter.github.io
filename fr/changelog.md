@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7
+* Compatibilité avec la dernière mise à jour du 24/08/2021
+* Ajout d'un compteur du tour
+
 ## 0.0.6
 
 * Correction d'un crash lors de l'activation du filtre dégât sur allié dans certaines situations
