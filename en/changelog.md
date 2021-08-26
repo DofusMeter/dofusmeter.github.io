@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7
+* Compatibility with las update 24/08/2021
+* Added a turn counter
+
 ## 0.0.6
 
 * Fix a crash when ally damage filter enabled
